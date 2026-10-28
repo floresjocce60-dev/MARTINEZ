@@ -1,12 +1,4 @@
-# ESPACIO DE PRUEBA
+# JOCCELIN MARTINEZ FLORES
 
-
-## INSTRUCCIONES
-
-1. Cada alumno revisará el repositorio y podrá:
-   * Agregar un archivo con alguna propuesta
-   * Modificar o mejorar alguna parte del código de algún archivo existente
-2. En el README deberá agregar su nombre, grupo y la acción realizada, después de su nombre deberá usar alguno de los siguientes términos:
-   * Add---> Si agregó un archivo
-   * Fix---> Si corrigió
-   * Modify---> Si realizó algún cambio
+# **Se modifico**
+Fix en el archivo tienda.py haciendo correcciones del calculo de >10000 para que fuera >=10000 como lo dicen las reglas del negocio. 
